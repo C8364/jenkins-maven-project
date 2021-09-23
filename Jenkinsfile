@@ -24,4 +24,3 @@ pipeline {
         }
     }
 }
-deneme
